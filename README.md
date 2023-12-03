@@ -43,7 +43,7 @@ npm install @nomicfoundation/hardhat-toolbox
 
 ## Authors
 
-Om Tajne
+Anagha Chandole
 
 
 ## License
